@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome to my Github:
+My name is Jhonathan, I am 20 years old, I am a Systems Analysis and Development student and my dream is to become a programmer.
+
+### Linkedin:
+
+[![LINKEDIN](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonathan-henrique-geronimo-41092016b/)
 
 <!--
 **JhonathannHenrique/JhonathannHenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
