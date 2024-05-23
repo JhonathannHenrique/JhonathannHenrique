@@ -13,7 +13,7 @@
 
 ### 📷 - Social
 
-[![LINKEDIN](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonathan-henrique-geronimo-41092016b/)
+[![LINKEDIN](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonathannhenrique/)
 
 -------------------
 
