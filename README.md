@@ -1,5 +1,5 @@
-[![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=JhonathannHenrique)](https://github.com/JhonathannHenrique)
-[![GitHub followers](https://img.shields.io/github/followers/JhonathannHenrique.svg?style=social&label=Followers)](https://github.com/JhonathannHenrique)
+[![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=ArthurVieiraaa)](https://github.com/JhonathannHenrique)
+[![GitHub followers](https://img.shields.io/github/followers/ArthurVieiraaa.svg?style=social&label=Followers)](https://github.com/JhonathannHenrique)
 
 <div align='left'>
     <h2>👋 - <i>Hi! Welcome to my Github profile</i><br></h2>
