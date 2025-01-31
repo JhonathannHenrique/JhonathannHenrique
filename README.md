@@ -1,18 +1,11 @@
-[![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=JhonathannHenrique)](https://github.com/JhonathannHenrique)
-[![GitHub followers](https://img.shields.io/badge/github%20followers-181717?style=social&logo=github)](https://github.com/JhonathannHenrique)
-
-<div align="left">
-    <h2>👋 Welcome to My GitHub Profile</h2>
-    
+<h2>👋 Welcome to My GitHub Profile</h2>
     ### 👨‍💻 About Me
     Hello! My name is Jhonathan Henrique, and I am a 20-year-old aspiring software developer.  
     I am currently pursuing a degree in Systems Analysis and Development (ADS), where I am building a strong foundation in programming, problem-solving, and software design.  
-
     I am passionate about technology and constantly seek to expand my knowledge and skills.  
     I am open to job opportunities, collaborations, and projects that allow me to grow as a professional while contributing to innovative solutions.  
-
     Let's connect and create something amazing together!
-</div>
+
 
 -------------------
 
