@@ -1,23 +1,23 @@
 <h2>👋 Welcome to My GitHub Profile</h2>
-    ### 👨‍💻 About Me
+👨‍💻 About Me
     
-    Hello! My name is Jhonathan Henrique, and I am a 20-year-old aspiring software developer.  
-    I am currently pursuing a degree in Systems Analysis and Development (ADS), where I am building a strong foundation in programming, problem-solving, and software design.  
-    I am passionate about technology and constantly seek to expand my knowledge and skills.  
-    I am open to job opportunities, collaborations, and projects that allow me to grow as a professional while contributing to innovative solutions.  
-    Let's connect and create something amazing together!
+Hello! My name is Jhonathan Henrique, and I am a 20-year-old aspiring software developer.  
+I am currently pursuing a degree in Systems Analysis and Development (ADS), where I am building a strong foundation in programming, problem-solving, and software design.  
+I am passionate about technology and constantly seek to expand my knowledge and skills.  
+I am open to job opportunities, collaborations, and projects that allow me to grow as a professional while contributing to innovative solutions.  
+Let's connect and create something amazing together!
 
 
 -------------------
 
-### 📌 Social & Contact
+📌 Social & Contact
 
 [![LINKEDIN](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonathannhenrique/)
 [![EMAIL](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@example.com)
 
 -------------------
 
-### 🛠️ Technologies & Tools
+🛠️ Technologies & Tools
 
 #### Front-end Development
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,7 +47,7 @@
 -------------------
 
 ### 📬 Let's Connect!
-I am always open to collaboration, job opportunities, and discussions about technology. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/jhonathannhenrique/) or [email](mailto:seu-email@example.com). Let's build something amazing together!
+I am always open to collaboration, job opportunities, and discussions about technology. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/jhonathannhenrique/) or [email](mailto:jhonathanhgeronimo@gmail.com). Let's build something amazing together!
 
 ---
 
