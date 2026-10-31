@@ -21,7 +21,7 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       # lê o gráfico de contribuições e gera os SVGs animados (tema claro e escuro)
       - name: Gerar SVGs da cobrinha
@@ -41,7 +41,7 @@ jobs:
       # publica a pasta dist na branch output
       # os arquivos ficam em https://raw.githubusercontent.com/<usuario>/<repo>/output/<arquivo>
       - name: Publicar na branch output
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
