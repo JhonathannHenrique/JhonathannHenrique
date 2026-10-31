@@ -1,0 +1,49 @@
+name: Atualizar cobrinha e cards do perfil
+
+on:
+  # todo dia à 00:00 (horário de Brasília = 03:00 UTC)
+  schedule:
+    - cron: "0 3 * * *"
+
+  # permite rodar manualmente pela aba Actions
+  workflow_dispatch:
+
+  # roda a cada push na main
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # lê o gráfico de contribuições e gera os SVGs animados (tema claro e escuro)
+      - name: Gerar SVGs da cobrinha
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # cards de estatísticas e de linguagens (scripts/cards.mjs)
+      - name: Gerar cards de estatísticas
+        run: node scripts/cards.mjs ${{ github.repository_owner }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # publica a pasta dist na branch output
+      # os arquivos ficam em https://raw.githubusercontent.com/<usuario>/<repo>/output/<arquivo>
+      - name: Publicar na branch output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
