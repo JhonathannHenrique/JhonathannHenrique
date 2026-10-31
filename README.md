@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://jhonathanhenrique.com.br"><img src="https://img.shields.io/badge/Portfólio-jhonathanhenrique.com.br-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
-  <a href="https://www.linkedin.com/in/jhonathannhenrique/"><img src="https://img.shields.io/badge/LinkedIn-jhonathannhenrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/jhonathannhenrique/"><img src="https://img.shields.io/badge/LinkedIn-jhonathannhenrique-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
   <a href="mailto:contato@jhonathanhenrique.com.br"><img src="https://img.shields.io/badge/E--mail-contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
 
@@ -30,59 +30,6 @@ Desenvolvedor de software focado em construir produtos digitais rápidos, acess�
 - ⚙️ **Automações** para reduzir tarefas manuais e ganhar produtividade
 - 🤖 **Inteligência artificial** e novas tecnologias aplicadas a soluções reais
 
-## 🛠️ Stack
-
-<table>
-  <tr>
-    <td><b>Front-end</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,vite" alt="JavaScript, TypeScript, React, Next.js, HTML, CSS, Vite" /></td>
-  </tr>
-  <tr>
-    <td><b>Back-end</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,supabase" alt="Node.js, Express, PostgreSQL, MongoDB, Supabase" /></td>
-  </tr>
-  <tr>
-    <td><b>Mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter, Dart" /></td>
-  </tr>
-  <tr>
-    <td><b>Outras linguagens</b></td>
-    <td><img src="https://skillicons.dev/icons?i=py,java,cpp,arduino" alt="Python, Java, C++, Arduino" /></td>
-  </tr>
-  <tr>
-    <td><b>Ferramentas</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,docker,githubactions,vercel,figma" alt="Git, Docker, GitHub Actions, Vercel, Figma" /></td>
-  </tr>
-</table>
-
-## 🚀 Projetos em destaque
-
-| Projeto | O que é | Stack | Links |
-| --- | --- | --- | --- |
-| **NR Detailer** | Site e agendamento online para estúdio de estética automotiva, integrado com o Google Agenda | React · TypeScript · Vite | [Site](https://www.nrdetailer.com.br/) · [Código](https://github.com/JhonathannHenrique/NR-Detail) |
-| **Parkiei** | App de mobilidade que mapeia vagas de estacionamento livres em tempo real (TCC de ADS) | HTML · CSS · JS · C++ | [Site](https://parkiei.vercel.app/) · [LP](https://github.com/JhonathannHenrique/LP-Parkiei) · [Sistema](https://github.com/JhonathannHenrique/SistemaEstacionamento-Parkiei) |
-| **Voluntários do Conhecimento** | Plataforma que conecta professores voluntários a ONGs educacionais | React · TypeScript · Vite | [Site](https://proj-raizes.netlify.app/) · [Código](https://github.com/JhonathannHenrique/ProjetoRaizes) |
-| **Laura Marcelino** | Site para social media e storymaker, com serviços, portfólio e contato | React · TypeScript · Vite | [Site](https://lauramarcelino.com.br/) · [Código](https://github.com/JhonathannHenrique/LP-LauraMarcelino) |
-| **DVN Digital** | Landing page de SaaS de agendamentos, com painel de horários, planos e captação de leads | React · Vite | [Site](https://dvndigital.vercel.app/) |
-| **Garagem Elshaday** | Site de estética automotiva premium, com depoimentos e agendamento online | HTML · CSS · JS | [Site](https://garagemelshaday.vercel.app) |
-
-<details>
-<summary><b>👀 Ver mais projetos</b></summary>
-<br />
-
-| Projeto | O que é | Stack |
-| --- | --- | --- |
-| [Sistema de Ponto](https://github.com/JhonathannHenrique/sistema-ponto) | Ponto eletrônico com geolocalização por GPS e dados do dispositivo | JavaScript |
-| [Estufa automatizada](https://github.com/JhonathannHenrique/SistemaEmbarcado-ProjetoEstufa) | Monitoramento e controle do microclima de estufas com Arduino Uno | C++ · Arduino |
-| [Jogo para totem](https://github.com/JhonathannHenrique/Jogo-PlataformaSenac) | Jogo feito com IA para um totem interativo, com brindes para quem bate a pontuação máxima | TypeScript |
-| [Fintech Segura](https://github.com/JhonathannHenrique/fintechSegura) | Gestão de finanças pessoais com foco em usabilidade e segurança | JavaScript |
-| [Roleta BET](https://github.com/JhonathannHenrique/Roleta-BET) | Mostra, com probabilidade, como funciona o código por trás das BETs ([demo](https://roleta-bet.netlify.app/)) | JavaScript |
-| [LinkedIn Profile Scraping](https://github.com/JhonathannHenrique/Linkedin-Profile-Scraping) | Extração automatizada de perfis do LinkedIn e envio de convites de conexão | Python |
-| [API RESTful](https://github.com/JhonathannHenrique/API-RESTful) | API em Node.js e Express seguindo boas práticas de arquitetura | Node.js · Express |
-| [LocalVault](https://github.com/JhonathannHenrique/LocalVault-Flutter) | App de persistência local segura (SharedPreferences, Hive) seguindo a LGPD | Flutter · Dart |
-
-</details>
-
 ## 📊 GitHub em números
 
 <p align="center">
@@ -98,8 +45,8 @@ Desenvolvedor de software focado em construir produtos digitais rápidos, acess�
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=JhonathannHenrique&locale=pt_BR&card_width=420&card_height=200&border_radius=8&background=0D1117&border=30363D&stroke=30363D&ring=3FB950&fire=3FB950&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=3FB950&sideLabels=E6EDF3&dates=9198A1" />
-    <img width="49%" alt="Sequência de contribuições" src="https://streak-stats.demolab.com/?user=JhonathannHenrique&locale=pt_BR&card_width=420&card_height=200&border_radius=8&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=1A7F37&fire=1A7F37&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=1A7F37&sideLabels=1F2328&dates=59636E" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=JhonathannHenrique&locale=pt_BR&card_width=860&card_height=200&border_radius=8&background=0D1117&border=30363D&stroke=30363D&ring=3FB950&fire=3FB950&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=3FB950&sideLabels=E6EDF3&dates=9198A1" />
+    <img width="99%" alt="Sequência de contribuições" src="https://streak-stats.demolab.com/?user=JhonathannHenrique&locale=pt_BR&card_width=860&card_height=200&border_radius=8&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=1A7F37&fire=1A7F37&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=1A7F37&sideLabels=1F2328&dates=59636E" />
   </picture>
 </p>
 
@@ -118,7 +65,5 @@ A cobrinha come o meu gráfico de contribuições. Ela e os cards acima são reg
 <div align="center">
 
 **Bora conversar?** Me chama no [LinkedIn](https://www.linkedin.com/in/jhonathannhenrique/) ou em [contato@jhonathanhenrique.com.br](mailto:contato@jhonathanhenrique.com.br).
-
-<img src="https://komarev.com/ghpvc/?username=JhonathannHenrique&label=Visitas+no+perfil&color=2ea043&style=flat-square" alt="Visitas no perfil" />
 
 </div>
