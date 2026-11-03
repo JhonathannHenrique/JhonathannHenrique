@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Jhonathan Henrique 👋
+# Olá, eu sou o Jhonathan Henrique 👨🏼‍💻
 
 <a href="https://jhonathanhenrique.com.br">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2EA043&center=true&vCenter=true&width=600&height=45&lines=Software+Developer;Do+backend+%C3%A0+interface;Automa%C3%A7%C3%A3o+e+Intelig%C3%AAncia+Artificial;P%C3%B3s+em+Engenharia+de+Software" alt="Software Developer · Do backend à interface · Automação e IA" />
@@ -16,21 +16,20 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
 Desenvolvedor de software focado em construir produtos digitais rápidos, acessíveis e bem estruturados, do backend à interface. Gosto de transformar problemas complexos em soluções simples de usar.
 
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**, cursando **Pós-Graduação em Engenharia de Software**
-- 💼 **3+ anos** de experiência e **20+ projetos** entregues
-- 📍 Santa Catarina, Brasil
+- Formado em **Análise e Desenvolvimento de Sistemas**, cursando **Pós-Graduação em Engenharia de Software**
+- **3+ anos** de experiência e **20+ projetos** entregues
 
 **No dia a dia eu trabalho com:**
 
-- 🧱 **Aplicações web e mobile** modernas, organizadas e com foco na experiência de quem usa
-- ⚙️ **Automações** para reduzir tarefas manuais e ganhar produtividade
-- 🤖 **Inteligência artificial** e novas tecnologias aplicadas a soluções reais
+- **Aplicações web e mobile** modernas, organizadas e com foco na experiência de quem usa
+- **Automações** para reduzir tarefas manuais e ganhar produtividade
+- **Inteligência artificial** e novas tecnologias aplicadas a soluções reais
 
-## 📊 GitHub em números
+## Métricas
 
 <p align="center">
   <picture>
@@ -50,9 +49,7 @@ Desenvolvedor de software focado em construir produtos digitais rápidos, acess�
   </picture>
 </p>
 
-## 🐍 Minhas contribuições
-
-A cobrinha come o meu gráfico de contribuições. Ela e os cards acima são regerados todo dia, então cada commit novo aparece aqui.
+## Minhas contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JhonathannHenrique/JhonathannHenrique/output/github-snake-dark.svg" />
